@@ -28,6 +28,8 @@ Still working on full documentation.
   - [ ] Sport Mode
   - [ ] Silent Mode (no advance until shutter button is released , à la Hexar RF
   - [ ] Multiple Exposure Mode
+
+- [ ] Hotshoe, Flash Sync
   
 - [ ] whole new 24x35mm variant of the camera, needs shutter to be flipped around as the motor would interfere in the frame, and would use a more aproriate lens, gear train would need to be modified, body widened. 
  
